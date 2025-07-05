@@ -1,1 +1,1 @@
-"I am very enthusiastic about this journey I am embarking on" 
+"I am an aspiring software developer currently training with the ALX-Africa program" 
